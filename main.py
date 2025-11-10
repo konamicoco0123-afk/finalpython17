@@ -5,6 +5,9 @@ import random
 #tôi đep trai
 #hoặc không
 
+
+#quach thien phuc
+
 pygame.init()
 WIDTH, HEIGHT = 1280, 720
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
