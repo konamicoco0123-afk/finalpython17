@@ -4,8 +4,13 @@ import math
 import random
 #tôi đep trai
 #hoặc không
+<<<<<<< HEAD
 #3:23PM
 #toine
+=======
+#hoangnam
+#trinhtrongnha111
+>>>>>>> 840745c3b402b07a38a94dd56160c688ba980714
 #quach thien phuc
 
 pygame.init()
